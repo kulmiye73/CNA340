@@ -1,14 +1,14 @@
 # Project Title
 
-One Paragraph of project description goes here.
+abdi workED  on project python sratchy-1.PY
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+this project can run in your computer if you using pycharm integreted development inviroment
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Once installed pycharm you can run the project scratch_1.py
 
 ```
 sudo apt update
@@ -17,7 +17,7 @@ sudo apt install package1 package2
 ```
 
 ## Running
-Once installed you can run the program with the following command
+Once installed you can run the project scratch_1.py
 
 ```
 python cna_demo.py
@@ -26,7 +26,7 @@ python cna_demo.py
 Add any additional ways to run the program below
 
 ```
-python cna_demo.py test.txt
+you can run in command line
 ```
 
 ## Thanks
