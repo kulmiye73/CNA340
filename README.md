@@ -1,14 +1,13 @@
 # Project Title
 
-abdi workED  on project python sratchy-1.PY
+ project python sratchy-1.PY
 
 ## Getting Started
 
-this project can run in your computer if you using pycharm integreted development inviroment
+this project 
 
 ### Prerequisites
-
-Once installed pycharm you can run the project scratch_1.py
+you need to download pycharm.IDE,python 
 
 ```
 sudo apt update
@@ -29,5 +28,5 @@ Add any additional ways to run the program below
 you can run in command line
 ```
 
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+## Thank
+i watched many time class lecture video and some youtube resource.
