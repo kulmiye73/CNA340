@@ -2,9 +2,7 @@
 
  project python sratchy-1.PY
 
-## Getting Started
-
-this project 
+## Getting Starte
 
 ### Prerequisites
 you need to download pycharm.IDE,python 
